@@ -27,8 +27,8 @@ export default function Home() {
         />
         <Social
           icon={FaGithub}
-          username="@NotTCA"
-          link="https://github.com/NotTCA"
+          username="@ToastifyDev"
+          link="https://github.com/ToastifyDev"
         />
         <Social icon={FaDiscord} username="/discord" link="/discord" />
         <Social
