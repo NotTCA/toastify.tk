@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Social from "../components/Social";
 import { FaYoutube, FaTwitter, FaGithub, FaDiscord } from "react-icons/fa";
+import { MdEmail } from "react-icons/md";
 
 export default function Home() {
   const imgSize = 200;
@@ -30,6 +31,12 @@ export default function Home() {
           link="https://github.com/NotTCA"
         />
         <Social icon={FaDiscord} username="/discord" link="/discord" />
+        <Social
+          icon={MdEmail}
+          username="hey@toastify.tk"
+          link="mailto:hey@toastify.tk"
+          className="md:col-span-2"
+        />
       </div>
     </main>
   );
