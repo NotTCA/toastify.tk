@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+
+@layer components {
+  main {
+    @apply w-screen h-screen flex flex-col justify-center items-center;
+  }
+  .bg-tca {
+    /* background: rgb(255,219,0); */
+    background: linear-gradient(
+      141deg,
+      rgba(255, 219, 0, 1) 0%,
+      rgba(102, 88, 1, 1) 100%
+    );
+  }
+}
+
+@tailwind utilities;
