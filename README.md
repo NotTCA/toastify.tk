@@ -6,4 +6,4 @@ The official website for Toastify.
 
 Check out the website at [toastify.tk](https://toastify.tk).
 
-![](public/preview.png)
+![](https://cdn.toastify.tk/website-preview.png)
