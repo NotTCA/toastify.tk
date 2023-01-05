@@ -6,8 +6,8 @@ export default function NotFound() {
     <>
       <NextSeo title="Not Found" />
       <main className="bg-tca">
-        <h1 className="text-4xl font-bold">Looks like you're lost.</h1>
-        <p>
+        <h1 className="text-6xl font-bold">Looks like you're lost.</h1>
+        <p className="text-xl mt-2">
           Try going back to the{" "}
           <Link href="/" className="hover:underline">
             home page.

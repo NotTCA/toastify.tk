@@ -11,8 +11,8 @@ export const featuredChannels: Channel[] = [
   },
   {
     avatar:
-      "https://yt3.ggpht.com/Tg3TMs_FGT8iG_JfmsEiWU-I7k6e2cqw3WxfQr_TnhA-wgf1MoDRgedQlHlM3nBkHyxUs-9B=s176-c-k-c0x00ffffff-no-rj-mo",
-    handle: "@GraphifyStats",
+      "https://yt3.ggpht.com/Dpd0xRxUuCO7d9NMscJcuUeqQPFNB14erk3cXiQ_wbx2KLGUoutAapAKRGdFvOCDeOM-z8D3JA=s176-c-k-c0x00ffffff-no-rj-mo",
+    handle: "@GraphifyStatistics",
   },
 ];
 
